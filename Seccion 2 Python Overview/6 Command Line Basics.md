@@ -1,3 +1,7 @@
+# Seccion 2 Python Overview
+
+### 6 Command Line Basics
+
 Comandos de la linea de comandos:
 
 -   cd: muestra la ruta actual
